@@ -1,0 +1,7 @@
+__pycache__
+.venv
+**/*.pyc
+.polytope
+.DS_Store
+conf/.env
+.ipynb_checkpoints
