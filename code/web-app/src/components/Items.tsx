@@ -78,7 +78,7 @@ const Items: React.FC = () => {
       <div className="navbar bg-base-300 text-neutral-content">
         <div className="flex-1">
           <a href="/" className="p-2 normal-case text-xl">
-            Items
+            Items Vicky
           </a>
         </div>
       </div>
